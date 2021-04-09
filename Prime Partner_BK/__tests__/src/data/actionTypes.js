@@ -1,0 +1,15 @@
+export const EMPTY_ORM = 'EMPTY_ORM';
+export const APP_STATUS= 'APP_STATUS';
+export const DELETE_POST_MODEL ='DELETE_POST_MODEL';
+export const GET_LOCATION= 'GET_LOCATION';
+export const USER_CREATION= 'USER_CREATION';
+export const SAVE_NEW_MESSAGES= 'SAVE_NEW_MESSAGES';
+export const CONVERSATION_LIST= 'CONVERSATION_LIST';
+export const REQUEST_LIST= 'REQUEST_LIST';
+export const READ_MESSAGES= 'READ_MESSAGES';
+export const SAVE_ALL_POSTS= 'SAVE_ALL_POSTS';
+
+
+
+
+
